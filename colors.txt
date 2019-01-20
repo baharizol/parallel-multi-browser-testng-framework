@@ -19,3 +19,7 @@ ivory
 bronze
 blonde
 green
+yellow
+red
+black
+white
